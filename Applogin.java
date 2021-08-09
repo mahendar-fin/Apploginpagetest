@@ -41,7 +41,7 @@ public class Applogin extends AppTestbase{
 		 repp.rep();
 		 
 			
-			repp.close();
+			reepp.close();
 			
 	}
 	
