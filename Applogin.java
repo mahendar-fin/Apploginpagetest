@@ -42,7 +42,7 @@ public class Applogin extends AppTestbase{
 		 
 			
 			
-			
+		reepp.close();
 	}
 	
 	
